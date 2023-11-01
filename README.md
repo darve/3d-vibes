@@ -4,7 +4,9 @@ I've been working with Amrit and Richie to produce an animated background to the
 
 I tried a bunch of different ideas with code, which consisted of a uniform grid of cubes that moved in a gentle sine wave. The code would apply a random phase of the sinewave to each cube to give it a sort of random feel.
 
-I tried a bunch of different materials and effects for the cubes. We quite liked the glossy black material but found it might steal focus from the text that would be sitting over it. 
+I experimented with different materials and effects for the cubes. We quite liked the glossy materials but found it might steal focus from the text that would be sitting over it. 
+
+![experiments](experiments.jpg)
 
 After a few iterations, we decided that if we went down the route of making the animation with code then we would be a bit limited in terms of performance. In order to make it look awesome, we'd need to add in effects such as soft shadows, ambient occlusion and depth of field. While this is all very possible with code, it does add a significant performance overhead, which I thought was overkill for a non-interactive animation.
 
@@ -39,3 +41,15 @@ Blender is awesome because you can be very specific in how your simulation looks
 ![octane-dark-1](octane-dark-1.jpeg)
 
 ![octane-dark-2](octane-dark-2.jpeg)
+
+<p><video muted autoplay loop src="test-01.mp4"></video></p>
+<p><video muted autoplay loop src="test-02.mp4"></video></p>
+<p><video muted autoplay loop src="test-03.mp4"></video></p>
+<p><video muted autoplay loop src="test-04.mp4"></video></p>
+<p><video muted autoplay loop src="test-05.mp4"></video></p>
+<p><video muted autoplay loop src="test-06.mp4"></video></p>
+<p><video muted autoplay loop src="test-07.mp4"></video></p>
+<p><video muted autoplay loop src="test-08.mp4"></video></p>
+<p><video muted autoplay loop src="test-09.mp4"></video></p>
+<p><video muted autoplay loop src="test-10.mp4"></video></p>
+<p><video muted autoplay loop src="test-11.mp4"></video></p>
