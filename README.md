@@ -1,4 +1,4 @@
-#### Creative Crit vibes
+### Marlowe animated header
 
 I've been working with Amrit and Richie to produce an animated background to the header of the new Marlowe website. The Marlowe branding is all about these cubes / building blocks, so the brief was to do something that looked cool but didn't pull too much focus from the actual website content.
 
@@ -12,11 +12,11 @@ So I decided to use a 3D graphics package called Blender to simulate the animate
 
 Blender is awesome because you can be very specific in how your simulation looks with things like lighting, materials, and post-processing effects, and the rendering process actually simulates beams of light interacting with the materials to create a very realistic image. After a few rounds of iteration and fedback we settled on a matte material so eliminate any bright reflections.
 
-<video src="dark.mp4"></video>
+<p><video src="dark.mp4"></video></p>
 
-<video src="light.mp4"></video>
+<p><video src="light.mp4"></video></p>
 
-Here are some examples of some of the test-renders:
+#### Here are some examples of some of the test-renders:
 
 ![bees-and-wasps](bees-and-wasps.jpeg)
 
