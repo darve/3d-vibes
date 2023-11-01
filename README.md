@@ -18,25 +18,24 @@ Blender is awesome because you can be very specific in how your simulation looks
 
 Here are some examples of some of the test-renders:
 
-![bees-and-wasps](bees-and-wasps.png)
+![bees-and-wasps](bees-and-wasps.jpeg)
 
-![entirely-unnecessary-chromatic-abberation](entirely-unnecessary-chromatic-abberation.png)
+![entirely-unnecessary-chromatic-abberation](entirely-unnecessary-chromatic-abberation.jpeg)
 
-![marlow-dark-matte-1](marlow-dark-matte-1.png)
+![marlow-dark-matte-1](marlow-dark-matte-1.jpeg)
 
-![marlow-dark-matte-2](marlow-dark-matte-2.png)
+![marlow-dark-matte-2](marlow-dark-matte-2.jpeg)
 
-![marlow-dark-matte-3](marlow-dark-matte-3.png)
+![marlow-dark-matte-3](marlow-dark-matte-3.jpeg)
 
-![marlow-dark-matte-4](marlow-dark-matte-4.png)
+![marlow-dark-matte-4](marlow-dark-matte-4.jpeg)
 
-![marlow-dark-matte-5](marlow-dark-matte-5.png)
+![marlow-dark-matte-5](marlow-dark-matte-5.jpeg)
 
-![marlow-light](marlow-light.png)
+![marlow-light](marlow-light.jpeg)
 
-![marlowe-dark-matte-6](marlowe-dark-matte-6.png)
+![marlowe-dark-matte-6](marlowe-dark-matte-6.jpeg)
 
-![octane-dark-1](octane-dark-1.png)
+![octane-dark-1](octane-dark-1.jpeg)
 
-![octane-dark-2](octane-dark-2.png)
->>>>>>> ce4729c (Initial commit)
+![octane-dark-2](octane-dark-2.jpeg)
